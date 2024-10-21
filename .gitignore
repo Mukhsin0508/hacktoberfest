@@ -39,6 +39,9 @@ build/
 
 # Environment variables
 .env
+.pvenv 
+/idea
+/vscode
 .env.local
 .env.*.local
 
