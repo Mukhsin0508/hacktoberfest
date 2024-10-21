@@ -2077,7 +2077,6 @@ contributors = [
   {
     id: 428,
     fullname: "Mukhsin Mukhtorov",
-    username: "https://github.com/Mukhsin0508"
+    username: "https://github.com/Mukhsin0508",
   },
-  
 ];
